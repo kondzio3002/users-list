@@ -3,8 +3,10 @@
     "watch": "nodemon"
   },
   "dependencies": {
-    "inquirer": "^9.1.5",
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "8.2.4",
     "nodemon": "^2.0.22",
-    "tsc-node": "^0.0.3"
+    "ts-node": "8.10.2",
+    "typescript": "^5.0.2"
   }
 }
