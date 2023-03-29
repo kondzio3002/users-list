@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "nodemon": "^2.0.22",
+    "tsc-node": "^0.0.3"
+  }
+}
